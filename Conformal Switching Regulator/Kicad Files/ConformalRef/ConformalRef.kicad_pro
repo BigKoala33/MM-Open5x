@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ConformalPowerCircuit.kicad_pro",
+    "filename": "ConformalRef.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -593,12 +593,6 @@
           "group_by": false,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
           "show": false
         }
       ],

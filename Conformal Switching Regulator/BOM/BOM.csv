@@ -1,0 +1,11 @@
+Reference,Value,Footprint,Qty,MPN
+    C10,1uF,0603,1,Generic
+    C11,7.5nF,0603,1,Generic
+"C12, C15",0.1uF,0603,2,Generic
+"C13, C14",10uF,1210,2,Generic
+    C16,47uF,1210,1,Generic
+    IC4,TPS54627DDAR,SOIC127P600X170-9N,1,TPS54627DDAR
+    L3,1.5uH,IHLP2525BDER1R5M01,1,IHLP2525BDER1R5M01
+    R15,10k,0603,1,Generic
+    R16,16k,0603,1,Generic
+    R17,22.1k,0603,1,Generic
